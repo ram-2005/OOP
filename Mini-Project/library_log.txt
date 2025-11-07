@@ -1,0 +1,4 @@
+Added book: Lord of the Rings : Return of the King
+Added member: Hanuram
+Book issued: Lord of the Rings : Return of the King to Hanuram
+Book returned: Lord of the Rings : Return of the King Late fee: 76.0
