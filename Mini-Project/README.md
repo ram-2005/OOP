@@ -11,4 +11,3 @@ It supports adding, issuing, and returning books, calculating late fees, and log
 - File logging (`library_log.txt`)
 - Uses OOP, Collections, and Exceptions
 
-## Compilation
