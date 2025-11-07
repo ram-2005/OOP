@@ -3,7 +3,8 @@
 
 This is a simple Java command-line application to manage books and members in a library.  
 It supports adding, issuing, and returning books, calculating late fees, and logs operations to a file.
-
+## UML Diagram
+![UML Diagram](UML Diagram/uml.png)
 ## Features
 - Add books and members
 - Issue and return books
