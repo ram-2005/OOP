@@ -13,7 +13,7 @@ It supports adding, issuing, and returning books, calculating late fees, and log
 
 ## Results
 
-![Program output1](Results/output1)
+![Program output1](Results/Result1)
 
-![Program output2](Results/output2)
+![Program output2](Results/Result2)
 
