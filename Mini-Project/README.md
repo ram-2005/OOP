@@ -11,3 +11,9 @@ It supports adding, issuing, and returning books, calculating late fees, and log
 - File logging (`library_log.txt`)
 - Uses OOP, Collections, and Exceptions
 
+## Results
+
+![Program output1](Results/output1)
+
+![Program output2](Results/output2)
+
